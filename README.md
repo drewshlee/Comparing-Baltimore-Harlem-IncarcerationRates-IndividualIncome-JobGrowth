@@ -19,3 +19,13 @@ To investigate some of the differences between Baltimore and Harlem, I took a lo
 
 3). [Individual Income - Parent Low Income](https://www.opportunityatlas.org/) - IndividualIncomeParentLowIncomeOpportunityAtlas.xlsx; Opportunity Atlas
 
+
+
+## Analysis
+
+I will analyze: 
+ - General Job growth in the U.S. from 2004 to 2013
+- Any relationships/correlation between Incarceration Rate and Individual Income in individuals who had a low income parent
+- Relationships between individual job growth, income, and incarceration rates in Baltimore and Harlem/Surrounding NY
+
+

@@ -15,7 +15,7 @@ To investigate some of the differences between Baltimore and Harlem, I took a lo
 1). [Job Growth from 2004 to 2013](https://www.opportunityatlas.org/) -  	tract_ann_avg_job_growth_2004_2013.xlsx; Opportunity Atlas
 
 
-2). [Incarceration Rate - Parent Low Income](https://www.opportunityatlas.org/) -  	tract_ann_avg_job_growth_2004_2013.xlsx; Opportunity Atlas
+2). [Incarceration Rate - Parent Low Income](https://www.opportunityatlas.org/) - IncarcerationRateParentLowIncomeOpportunityAtlas.xlsx	; Opportunity Atlas
 
 3). [Individual Income - Parent Low Income](https://www.opportunityatlas.org/) - IndividualIncomeParentLowIncomeOpportunityAtlas.xlsx; Opportunity Atlas
 

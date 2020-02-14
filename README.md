@@ -21,6 +21,10 @@ To investigate some of the differences between Baltimore and Harlem, I took a lo
 
 
 
+## Data Visualization
+
+![Image of Incarceration and Income in U.S.](https://github.com/drewshlee/Comparing-BaltimoreCity-Harlem-IncarcerationRates/blob/master/IncarcerationAndIncomeU.S..JPG)
+
 
 
 ## Analysis

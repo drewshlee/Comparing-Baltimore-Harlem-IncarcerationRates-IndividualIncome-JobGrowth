@@ -34,6 +34,17 @@ I will analyze:
 - Relationships between individual job growth, income, and incarceration rates in Baltimore and Harlem/Surrounding NY
 
 
+## Analysis Results
+
+- For individuals from low parent income households, incarceration rates and individual income don't show a clear correlation. However, there is somewhat of a correlation between income and incarceration rates: Relatively high individual incomes (>40k or so) match with low incarceration rates.
+
+-Taking a closer look into Baltimore, specifically, shows a more clear cut relation between low income and incarceration rates. 
+
+- Harlem and its surrounding area also shows somewhat of a correlation: When income decreases, incarceration rates increase.
+
+- In Harlem and surrounding NYC areas, we can see job growth (2004-2013), but there are a good chunk of areas in Baltimore that show a decline in job growth from 2004-2013. A lack of job growth, coupled with low income are likely to play a role in Baltimore's incarceration rates.
+
+
 ## Some links regarding Baltimore 
 
 -https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-belair-edison-20150328-story.html

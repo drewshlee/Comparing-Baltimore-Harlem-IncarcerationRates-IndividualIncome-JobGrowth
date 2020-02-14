@@ -38,7 +38,7 @@ I will analyze:
 
 - For individuals from low parent income households, incarceration rates and individual income don't show a clear correlation. However, there is somewhat of a correlation between income and incarceration rates: Relatively high individual incomes (>40k or so) match with low incarceration rates.
 
--Taking a closer look into Baltimore, specifically, shows a more clear cut relation between low income and incarceration rates. 
+- Taking a closer look into Baltimore, specifically, shows a more clear cut relation between low income and incarceration rates. 
 
 - Harlem and its surrounding area also shows somewhat of a correlation: When income decreases, incarceration rates increase.
 

@@ -8,4 +8,14 @@ Times have changed, however, and Harlem has experienced, and is still experienci
 
 Baltimore, on the other hand, once a pinnacle of cultural richness, is experiencing a revolution in the opposite direction: Criminal + drug activity is set free and allowed to roam and businesses and individuals are moving out of Baltimore. 
 
-To investigate some of the differences between Baltimore and Harlem, we'll took a look at [OpportunityInsights(https://opportunityinsights.org/) group has produced to analyze some of the differences in Harlem and Baltimore's populations, at least among the individuals who came from the lowest percentile of parent income.
+To investigate some of the differences between Baltimore and Harlem, I took a look at [OpportunityAtlas](https://www.opportunityatlas.org/) group has produced to analyze some of the differences in Harlem and Baltimore's populations, at least among the individuals who came from the lowest percentile of parent income.
+
+## Data Sources
+
+1). [Job Growth from 2004 to 2013](https://www.opportunityatlas.org/) -  	tract_ann_avg_job_growth_2004_2013.xlsx; Opportunity Atlas
+
+
+2). [Incarceration Rate - Parent Low Income](https://www.opportunityatlas.org/) -  	tract_ann_avg_job_growth_2004_2013.xlsx; Opportunity Atlas
+
+3). [Individual Income - Parent Low Income](https://www.opportunityatlas.org/) - IndividualIncomeParentLowIncomeOpportunityAtlas.xlsx; Opportunity Atlas
+

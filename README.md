@@ -29,3 +29,11 @@ I will analyze:
 - Relationships between individual job growth, income, and incarceration rates in Baltimore and Harlem/Surrounding NY
 
 
+## Some links regarding Baltimore 
+
+-https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-belair-edison-20150328-story.html
+-https://goc.maryland.gov/incarceration/
+-https://www.prisonpolicy.org/origin/md/report.html
+-https://www.baltimoresun.com/entertainment/bs-bz-barriers-to-employment-20140602-story.html
+
+

@@ -46,12 +46,9 @@ I will analyze:
 
 - Despite Baltimore's negative portrayl in media, its income range is quite varied, and shows promising job growth in some areas. It's income and incarceration rates are not too far off from U.S. national averages. There's likely a deeper issue at hand, regarding social policy, police, and race, that may be responsible for Baltimore's incarceration rates and struggles.
 
-
 ## Some links regarding Baltimore Incarceration/Income
 
--https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-belair-edison-20150328-story.html
--https://goc.maryland.gov/incarceration/
--https://www.prisonpolicy.org/origin/md/report.html
--https://www.baltimoresun.com/entertainment/bs-bz-barriers-to-employment-20140602-story.html
-
-
+- https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-belair-edison-20150328-story.html
+- https://goc.maryland.gov/incarceration/
+- https://www.prisonpolicy.org/origin/md/report.html
+- https://www.baltimoresun.com/entertainment/bs-bz-barriers-to-employment-20140602-story.html

@@ -38,14 +38,16 @@ I will analyze:
 
 - For individuals from low parent income households, incarceration rates and individual income don't show a clear correlation. However, there is somewhat of a correlation between income and incarceration rates: Relatively high individual incomes (>40k or so) match with low incarceration rates.
 
-- Taking a closer look into Baltimore, specifically, shows a more clear cut relation between low income and incarceration rates. 
+- Taking a closer look into Baltimore, specifically, shows a pretty clear cut negative correlation between low income and incarceration rates (As incarceration rates increase, income decreases). 
 
-- Harlem and its surrounding area also shows somewhat of a correlation: When income decreases, incarceration rates increase.
+- For Harlem and its surrounding area, the relationship is less clear: Income remains relatively consistent even as incarceration rates vary.
 
 - In Harlem and surrounding NYC areas, we can see job growth (2004-2013), but there are a good chunk of areas in Baltimore that show a decline in job growth from 2004-2013. A lack of job growth, coupled with low income are likely to play a role in Baltimore's incarceration rates.
 
+- Despite Baltimore's negative portrayl in media, its income range is quite varied, and shows promising job growth in some areas. It's income and incarceration rates are not too far off from U.S. national averages. There's likely a deeper issue at hand, regarding social policy, police, and race, that may be responsible for Baltimore's incarceration rates and struggles.
 
-## Some links regarding Baltimore 
+
+## Some links regarding Baltimore Incarceration/Income
 
 -https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-belair-edison-20150328-story.html
 -https://goc.maryland.gov/incarceration/
